@@ -4,11 +4,13 @@
 
 A classic Klondike Solitaire game inspired by the Windows XP version that I developed in 2004 using the Swing framework.
 
-## Requirements
+## Requirements and Setup
 
 Java Runtime Environment (JRE) 1.8
 
 Note: The program is optimized for JRE 1.8 and may not run correctly on newer versions.
+
+To start the application, run the `KlondikeSolitaire.java` file located in the `org.example` package.
 
 ## The purpose of the game
 
