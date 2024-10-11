@@ -88,16 +88,16 @@ The game interface can be changed to three different "themes," each providing a 
 
 ## Screenshots
 
-<img src=docs/07.png alt="" width="400">
+<img src=docs/07.png alt="" width="624">
 <br>
-<img src=docs/01.png alt="" width="400">
+<img src=docs/01.png alt="" width="624">
 <br>
-<img src=docs/02.png alt="" width="400">
+<img src=docs/02.png alt="" width="624">
 <br>
-<img src=docs/03.png alt="" width="400">
+<img src=docs/03.png alt="" width="624">
 <br>
-<img src=docs/04.png alt="" width="400">
+<img src=docs/04.png alt="" width="624">
 <br>
-<img src=docs/05.png alt="" width="400">
+<img src=docs/05.png alt="" width="624">
 <br>
-<img src=docs/06.png alt="" width="400">
+<img src=docs/06.png alt="" width="480">
